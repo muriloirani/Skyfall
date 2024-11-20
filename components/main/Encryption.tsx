@@ -45,7 +45,7 @@ const Encryption = () => {
         </div>
       </div>
       <div className="absolute z-[20] bottom-[10px] px-[5px]">
-        <div className="cursive text-[20px] font-medium text-center text-gray-300">
+        <div className="text-lg text-gray-400 my-5 max-w-[600px]">
           Proteja sua aplicação com auditorias especializadas.
         </div>
       </div>

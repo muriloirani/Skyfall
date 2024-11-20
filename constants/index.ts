@@ -53,12 +53,7 @@ export const Skill_data = [
       width: 80,
       height: 80,
     },
-    {
-      skill_name: "Framer Motion",
-      Image: "/framer.png",
-      width: 80,
-      height: 80,
-    },
+
     {
       skill_name: "Stripe Payment",
       Image: "/stripe.webp",
@@ -122,24 +117,14 @@ export const Skill_data = [
       width: 80,
       height: 80,
     },
-    {
-      skill_name: "Material UI",
-      Image: "/mui.png",
-      width: 80,
-      height: 80,
-    },
+
     {
       skill_name: "React",
       Image: "/react.png",
       width: 80,
       height: 80,
     },
-    {
-      skill_name: "Redux",
-      Image: "/redux.png",
-      width: 80,
-      height: 80,
-    },
+
     {
       skill_name: "React Query",
       Image: "/reactquery.png",
@@ -218,29 +203,18 @@ export const Skill_data = [
       width: 70,
       height: 70,
     },
+
     {
-      skill_name: "Tauri",
-      Image: "/tauri.svg",
-      width: 70,
-      height: 70,
+      skill_name: "Go",
+      Image: "/go.png",
+      width: 60,
+      height: 60,
     },
-    {
-      skill_name: "Docker",
-      Image: "/docker.webp",
-      width: 70,
-      height: 70,
-    },
-  
-    {
-      skill_name: "Figma",
-      Image: "/figma.png",
-      width: 50,
-      height: 50,
-    },
-  
+
+
   ];
   
-  
+
   
   export const Other_skill = [
     {
